@@ -1,0 +1,4 @@
+Code 302, average number of bytes = 73.54901960784314
+Code 304, average number of bytes = 0.0
+Code 404, average number of bytes = 0.0
+Code 200, average number of bytes = 22848.716743119265
