@@ -1,0 +1,23 @@
+Spark SQL result:
+Code 200, average number of bytes = 22848.716743119265
+Code 302, average number of bytes = 73.54901960784314
+Code 404, average number of bytes = 0.0
+Code 304, average number of bytes = 0.0
+
+AsterixDB:
+	"results": [ {
+		"average" : 22848.716743119265,
+		"response" : "200"
+	}, {
+		"average" : 0.0,
+		"response" : "304"
+	}, {
+		"average" : 73.54901960784314,
+		"response" : "302"
+	}, {
+		"average" : 0.0,
+		"response" : "404"
+	} ]
+	,
+
+

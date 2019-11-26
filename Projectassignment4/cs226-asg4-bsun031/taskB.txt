@@ -1,0 +1,8 @@
+Spark SQL result:
+There are 13 log entries that happen between 804571201 and 804571214
+
+AsterixDB:
+	"results": [ {
+		"$1" : 13
+	} ]
+	,

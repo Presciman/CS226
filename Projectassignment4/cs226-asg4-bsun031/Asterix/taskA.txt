@@ -1,0 +1,14 @@
+	"results": [ {
+		"average" : 22848.716743119265,
+		"response" : "200"
+	}, {
+		"average" : 0.0,
+		"response" : "304"
+	}, {
+		"average" : 73.54901960784314,
+		"response" : "302"
+	}, {
+		"average" : 0.0,
+		"response" : "404"
+	} ]
+	,
